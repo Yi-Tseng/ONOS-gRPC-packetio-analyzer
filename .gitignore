@@ -1,0 +1,6 @@
+venv
+.vscode
+*.log
+result.txt
+hsperfdata_root
+analysis.py
